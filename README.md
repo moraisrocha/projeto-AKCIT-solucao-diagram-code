@@ -9,7 +9,7 @@ O objetivo da atividade consistiu em aplicar a abordagem de Diagrams as Code e a
 │  [Prompt-1-forum-unidade-3] ──► Generação via IA ──► [Resposta-prompt-1]               │
 │               │                                              │                         │
 │               ▼                                              ▼                         │
-│  [Prompt-2-unidade-3]       ──► Refinamento/Sequência ──► [Resposta-prompt-2]          │
+│  [Prompt-2-forum-unidade-3] ──► Refinamento/Sequência ──► [Resposta-prompt-2]          │
 │                                                                                        │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
