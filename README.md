@@ -3,15 +3,15 @@
 O objetivo da atividade consistiu em aplicar a abordagem de Diagrams as Code e a utilização de Inteligência Artificial Generativa para apoiar a fase de discovery e modelagem arquitetural do Sistema de Estimativa de Jornada com IA Generativa.
 
 ```
-┌────────────────────────────────────────────────────────────────────────────────┐
-│                                   FLUXO DA ATIVIDADE                           │
-│                                                                                │
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                   FLUXO DA ATIVIDADE                                                     │
+│                                                                                                          │
 │  [prompts/Prompt-1-forum-unidade-3.md] ──► Generação via IA ──► [respostas/Resposta-Prompt-1.md]         │
-│               │                                              │                 │
-│               ▼                                              ▼                 │
+│               │                                              │                                           │
+│               ▼                                              ▼                                           │
 │  [prompts/Prompt-2-forum-unidade-3.md] ──► Refinamento/Sequência ──► [respostas/Resposta-Prompt-2.md]    │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────────────────┘
+│                                                                                                          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ## Estrutura do Repositório
