@@ -91,4 +91,6 @@ Rel(integracao_projetos_service, ext_project_tool, "Registra estimativa formalme
 - [ ] **Sintaxe e Renderização PlantUML:** O código compila corretamente entre as marcas @startuml e @enduml utilizando a biblioteca padrão C4-PlantUML sem erros de marcação?
 
 **5. Imagem do Código PlantUML Nível de Containers C4**
-[image]
+
+![PlantUML](plantUML.png)
+
