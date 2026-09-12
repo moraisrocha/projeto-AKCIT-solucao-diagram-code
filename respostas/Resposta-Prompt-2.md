@@ -50,7 +50,7 @@ Rel(jira_integration_service, ext_jira, "Cria épicos/issues e registra estimati
 @enduml
 ```
 
-![PlantUML](plantUML-prompt-2.png)
+![Containers](../imagens/plantUML-prompt-2.png)
 
 ### 2. Diagrama de Sequência (Comportamental em Mermaid)
 
